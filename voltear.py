@@ -17,4 +17,3 @@ listaFrases.reverse()
 
 for elemento in listaFrases:
     print(elemento)
-    

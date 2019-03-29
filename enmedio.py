@@ -14,4 +14,4 @@ for i in range(tamano):
 
 for elemento in lista:
     print(elemento)
-
+    print(lista)
