@@ -1,5 +1,5 @@
 """
-Este escrypt recvibe una imagen, un mesaje y una ruta de salida
+Este escrypt recibe una imagen, un mesaje y una ruta de salida
 guarda el mensaje en la imagen de salida
 
 """
